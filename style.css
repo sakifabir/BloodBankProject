@@ -1,0 +1,90 @@
+
+body {
+    color: red;
+}
+
+.head_logo {
+    background-color:#eeeeee ;
+}
+.head_logo .logo {
+    padding: 30px 0;
+}
+
+.mainlogo {
+    margin-bottom: -120px;
+    /*z-index: 11;*/
+    position: relative;
+}
+.mainlogo a {
+
+}
+.mainlogo a img {
+    width: 120px;
+    height: auto;
+    margin-top: -150px;
+}
+
+.sexy_nurese {
+
+}
+.sexy_nurese img {
+    margin-top: -195px;
+
+}
+.slider_wrapper {}
+.slider_wrapper .item {}
+.slider_wrapper .item img {
+    width: 800px;
+    height: 416px;
+}
+
+.top_donor {
+    margin: 15px 0;
+    padding: 15px 0;
+}
+.nearby_point {}
+.nearby_point ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+.nearby_point ul li {
+    width: 49%;
+    float: left;
+    height: 154px;
+}
+.nearby_point ul li a {
+    text-decoration: none;
+}
+.caption {
+    color: #FFF;
+    position: relative;
+    z-index: 2;
+    top: -160px;
+    left: 15px;
+}
+.nearby_point ul li a img {
+    margin: 1px 2px 0px 0px;
+    padding-right: 1px;
+}
+
+
+.who_can {}
+.who_can img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+footer {
+    margin-top: 100px;
+}
+
+/*hide show about*/
+
+#app_view_about {
+    display: none;
+}
+#app_view_contact {
+    display: none;
+}
